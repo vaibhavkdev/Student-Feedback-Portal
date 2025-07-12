@@ -4,13 +4,14 @@
 
 ## Features
 
-- Role-based login (Student / Admin / Faculty)
-- Submit feedback for courses
-- View course-wise feedback analytics (Admin/Faculty)
-- List and manage courses
+- Role-based login (Student, Admin, Faculty)
+- Students can submit feedback for courses
+- Admins/Faculty can view course-wise feedback analytics
+- Admins/Faculty can add, delete, and manage courses
+- Fully responsive frontend built with React.js + Tailwind CSS
 - JWT-based Authentication
-- Fully responsive frontend (Reactjs + Tailwind CSS)
-- Built with ASP.NET Core Web API and SQL Server backend
+- Secure API built with ASP.NET Core Web API and SQL Server
+
 
 ---
 
