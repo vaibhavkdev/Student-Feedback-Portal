@@ -27,7 +27,9 @@
 **Backend Setup**
    ***Clone the repository:**
     bash
+      
       git clone https://github.com/vaibhavkdev/Student-Feedback-Portal.git
+     
       cd Student-Feedback-Portal/backend
 
 4. ***Configure the connection string in appsettings.json:**
