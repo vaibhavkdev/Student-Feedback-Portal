@@ -19,7 +19,7 @@
       - React Router DOM
 
    **Backend:**
-      - ASP.NET Core Web API (.NET 8)
+      - ASP.NET Core Web API (.NET 8), C#
       - Entity Framework Core
       - SQL Server
       - JWT Authentication for login-based roles
