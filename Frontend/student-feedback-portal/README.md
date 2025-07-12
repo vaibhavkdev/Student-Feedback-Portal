@@ -9,7 +9,7 @@
 - Admins/Faculty can view course-wise feedback analytics
 - Admins/Faculty can add, delete, and manage courses
 - Fully responsive frontend built with React.js + Tailwind CSS
-- JWT-based Authentication
+- JWT Authentication for login-based roles
 - Secure API built with ASP.NET Core Web API and SQL Server
 
 
@@ -29,7 +29,7 @@
 - ASP.NET Core Web API (.NET 8)
 - Entity Framework Core
 - SQL Server
-- JWT Authentication
+- JWT Authentication for login-based roles
 
 ---
 
