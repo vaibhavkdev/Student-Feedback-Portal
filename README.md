@@ -1,4 +1,5 @@
 ***## StudentFeedbackPortal##**
+
 ***StudentFeedbackPortal** is a full-stack web application designed to facilitate structured and anonymous feedback between students and faculty in educational institutions. It allows students to submit course feedback while enabling faculty/admins to analyze that data to improve academic quality.
 
 1. ## Features
@@ -51,10 +52,10 @@
 **Frontend Setup**
 1. ## Open a new terminal:
 
-  cd Student-Feedback-Portal/frontend
+    cd Student-Feedback-Portal/frontend
   
-  npm install
+    npm install
 
 2. ## Start the frontend:
 
-  npm start
+    npm start
