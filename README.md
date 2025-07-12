@@ -25,7 +25,9 @@
 
 3. ## Installation
 **Backend Setup**
+   
    ***Clone the repository:**
+    
     bash
       
       git clone https://github.com/vaibhavkdev/Student-Feedback-Portal.git
@@ -50,6 +52,7 @@
 1. ## Open a new terminal:
 
   cd Student-Feedback-Portal/frontend
+  
   npm install
 
 2. ## Start the frontend:
