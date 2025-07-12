@@ -12,17 +12,17 @@
 - Secure API built with ASP.NET Core Web API and SQL Server
 
 2. ## Tech Stack
-**Frontend:**
-- React.js
-- Tailwind CSS
-- Axios
-- React Router DOM
+   **Frontend:**
+      - React.js
+      - Tailwind CSS
+      - Axios
+      - React Router DOM
 
-**Backend:**
-- ASP.NET Core Web API (.NET 8)
-- Entity Framework Core
-- SQL Server
-- JWT Authentication
+   **Backend:**
+      - ASP.NET Core Web API (.NET 8)
+      - Entity Framework Core
+      - SQL Server
+      - JWT Authentication
 
 3. ## Installation
 **Backend Setup**
@@ -37,15 +37,18 @@
 
 4. ***Configure the connection string in appsettings.json:**
 
-    "ConnectionStrings": {
+    "ConnectionStrings":
+      {
+
       "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=StudentFeedbackDb;Trusted_Connection=True;TrustServerCertificate=True;"
+
       }
 
-5. **Run EF Core migrations:**
+6. **Run EF Core migrations:**
 
     dotnet ef database update
 
-6. **Start the backend server:**
+7. **Start the backend server:**
 
     dotnet run
 
